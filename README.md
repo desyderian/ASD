@@ -5,7 +5,7 @@
 <a href="binary searching.c">&emsp;b. Binary Searching</a><br>
 <a href="deskripsi binary">&emsp;↳ Deskripsi Binary Searching </a><br>
 <a>2. Sorting</a><br>
-<a>a. Bubble Sorting</a><br>
-<a>b. Selection Sorting</a><br>
-<a>c. Insertion Sorting</a><br>
-<a>d. Challenge</a><br>
+<a>&emsp;a. Bubble Sorting</a><br>
+<a>&emsp;b. Selection Sorting</a><br>
+<a>&emsp;c. Insertion Sorting</a><br>
+<a>&emsp;d. Challenge</a><br>
