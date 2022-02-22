@@ -16,7 +16,7 @@ int main(){
     }
     printf("\nArray Ascending Insertion Sorting: \n");
     for(i=0;i<n;i++){
-        printf("%d\t", array[i]);
+        printf("%d ", array[i]);
     }
     printf("\n");
     return 0;
