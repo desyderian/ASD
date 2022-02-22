@@ -1,5 +1,5 @@
 # ASD
-<a>1. Searching</a><br>
+<h2>1. Searching<br>
 <a href="sequential searching.c">&emsp;a. Sequential Searching</a><br>
 <a href="deskripsi sequential">&emsp;&emsp;↳ Deskripsi Sequential Searching</a><br>
 <a href="https://github.com/desyderian/ASD/blob/main/searching/binary%20searching.c">&emsp;b. Binary Searching</a><br>
