@@ -6,6 +6,6 @@
 <a href="deskripsi binary">&emsp;&emsp;↳ Deskripsi Binary Searching </a><br>
 <a>2. Sorting</a><br>
 <a href="https://github.com/desyderian/ASD/blob/main/sorting/bubble%20sort/bubble%20sort.c">&emsp;a. Bubble Sorting</a><br>
-<a>&emsp;b. Selection Sorting</a><br>
+<a href="https://github.com/desyderian/ASD/blob/main/sorting/selection%20sort/selection%20sort.c">&emsp;b. Selection Sorting</a><br>
 <a href="https://github.com/desyderian/ASD/blob/main/sorting/insertion%20sort/insertion%20sort.c">&emsp;c. Insertion Sorting</a><br>
 <a href="https://github.com/desyderian/ASD/blob/main/sorting/challenge.c">&emsp;d. Challenge</a><br>
