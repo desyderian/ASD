@@ -1,5 +1,5 @@
 <h1>Algoritma dan Struktur Data❧</h1>
-<a>1. Searching</a>❧<br>
+###1. Searching❧<br>
 <a>&emsp;</a>a. <a href="https://github.com/desyderian/ASD/tree/main/searching/sequential%20searching">Sequential Searching</a><br>
 <a>&emsp;</a>b. <a href="https://github.com/desyderian/ASD/tree/main/searching/binary%20searching">Binary Searching</a><br><br>
 <a>2. Sorting</a>❧<br>
