@@ -1,4 +1,4 @@
-<h2>Binary Searching</h2>
+<h2>Binary Searching❧</h2>
 
 Pada program ini setelah memasukkan subprogram untuk menjalankan binary searching, input array dan jumlah data sudah ditentukan, kemudian data yang akan dicari juga sudah
 ditentukan. Sistem menemukan data yang dicari adalah mengurutkan data terlebih dahulu baik dari yang terkecil maupun yang terbesar. Kemudian data tersebut dibagi dua,
