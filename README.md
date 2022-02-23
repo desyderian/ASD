@@ -2,7 +2,7 @@
 <a>1. Searching</a><br>
 <a href="sequential searching.c">&emsp;a. Sequential Searching</a><br>
 <a href="deskripsi sequential">&emsp;&emsp;↳ Deskripsi Sequential Searching</a><br>
-<a>&emsp;</a>b.<a href="https://github.com/desyderian/ASD/tree/main/searching/binary%20searching">Binary Searching</a><br>
+<a>&emsp;</a>b. <a href="https://github.com/desyderian/ASD/tree/main/searching/binary%20searching">Binary Searching</a><br>
 
 <a>2. Sorting</a><br>
 <a>&emsp;</a>a. <a href="https://github.com/desyderian/ASD/tree/main/sorting/bubble%20sort">Bubble Sorting</a><br>
