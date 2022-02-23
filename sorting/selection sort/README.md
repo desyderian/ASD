@@ -1,4 +1,4 @@
-<h2>SELECTION SORT</h2>
+<h2>SELECTION SORT❧</h2>
 
 Metode sorting dengan membandingkan elemen yang sekarang dengan elemen yang terakhir. 
 Jika ditemukan elemen lain yang lebih kecil dari elemen sekarang maka dicatat posisinya dan ditukar.
