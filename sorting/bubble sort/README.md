@@ -1,4 +1,4 @@
-<h2>BUBBLE SORT</h2>
+<h2>BUBBLE SORT❧</h2>
 
 Metode/algoritma pengurutan dengan dengan cara melakukan penukaran data dengan tepat disebelahnya secara terus menerus sampai bisa dipastikan 
 dalam satu literasi tertentu tidak ada lagi perubahan
