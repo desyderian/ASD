@@ -1,4 +1,4 @@
-<h2>Sequential Searching</h2>
+<h2>Sequential Searching❧</h2>
 
 Setelah mendeklarasikan beberapa variabel, kita diminta untuk menginputkan jumlah data yang diinginkan. Kemudian memasukkan data sesuai dengan jumlah yang diinginkan.
 Setelah memasukkan inputan angka/data yang ingin dicari, program akan melaksanakan pencarian dengan cara berurutan dari indeks-0 sampai akhir. Apabila data ditemukan,
