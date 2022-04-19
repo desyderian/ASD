@@ -8,4 +8,4 @@
 <a>&emsp;</a>c. <a href="https://github.com/desyderian/ASD/blob/main/sorting/insertion%20sort">Insertion Sorting</a><br>
 <a>&emsp;</a>d. <a href="https://github.com/desyderian/ASD/blob/main/sorting/challenge.c">Challenge</a><br><br>
 <a>3. Tree❧</a><br>
-<a>&emsp;</><a href="https://github.com/desyderian/ASD/tree/main/Tree"> Post Order, In Order, Pre Order</a>
+<a>&emsp;</><a href="https://github.com/desyderian/ASD/tree/main/tree"> Post Order, In Order, Pre Order</a>
