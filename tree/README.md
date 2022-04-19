@@ -4,4 +4,4 @@
 2. Pre Order  : Mencetak node dengan urutan <i>root, left, right</i>
 3. In Order   : Mencetak node dengan urutan <i>left, root, right</i>
 
-<a href="https://github.com/desyderian/ASD/blob/main/Tree/tree.c">Code</a>
+<a href="https://github.com/desyderian/ASD/blob/main/tree/tree.c">Code</a>
